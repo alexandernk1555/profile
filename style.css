@@ -1,0 +1,90 @@
+h1 {
+  color: rgb(16, 16, 3);
+  font-family: arial;
+  font-weight: 900;
+  text-align: center;
+}
+
+h2 {
+  color: rgba(16, 16, 3, 0.871);
+  font-size: 20px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 600;
+  text-align: center;
+  background-color: rgba(16, 16, 3, 0.187);
+  padding: 30px;
+  border-radius: 20px;
+}
+
+p {
+  color: rgba(16, 16, 3, 0.796);
+  font-size: 16px;
+  font-family: arial;
+  font-weight: 200;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(16, 16, 3, 0.796)
+  padding: 10px;
+}
+
+body {
+  background-color: rgba(16, 16, 3, 0.074);
+}
+
+.container {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.profile-avatar {
+  border-radius: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.profile-job-experiences {
+  background-color: rgba(16, 16, 3, 0.187);
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 20px;
+}
+
+.profile-description {
+  font-size: 16px;
+  font-family: arial;
+  font-weight: 200;
+  text-align: center;
+}
+
+.button{
+  padding: 20px;
+}
+
+.profile-contact {
+  list-style: none;
+}
+
+.profile-footer {
+  color: rgb(16, 16, 3);
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  color: rgba(16, 16, 3, 0.796);
+  font-size: 12px;
+  font-family: arial;
+  font-weight: 100;
+  text-align: center;
+  font-style: italic;
+}
